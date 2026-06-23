@@ -9,7 +9,8 @@
     "throttle_sec": 0,
     "analysis_concurrency": 1,
     "enrichment_concurrency": 1,
-    "base_url": "https://api.deepseek.com"
+    "base_url": "https://api.deepseek.com",
+    "languages": ["en", "zh"]
   },
   "email": {
     "enabled": false,
