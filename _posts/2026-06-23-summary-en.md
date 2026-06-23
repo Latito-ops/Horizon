@@ -5,202 +5,293 @@ date: 2026-06-23
 lang: en
 ---
 
-> From 35 items, 22 important content pieces were selected
+> From 36 items, 20 important content pieces were selected
 
 ---
 
-1. [Valve Launches New Steam Machine with Fair Reservation System](#item-1) ⭐️ 9.0/10
-2. [Running GLM-5.2 Locally: Hardware Requirements](#item-2) ⭐️ 8.0/10
-3. [Flock License Plate Readers Misused by Police Chiefs to Stalk Women](#item-3) ⭐️ 8.0/10
-4. [LLM Role Confusion Enables Effective Jailbreaks](#item-4) ⭐️ 8.0/10
-5. [Porting Moebius 0.2B inpainting model to browser with WebGPU](#item-5) ⭐️ 8.0/10
-6. [In Praise of Memcached: Simplicity Over Redis/Valkey](#item-6) ⭐️ 7.0/10
-7. [Moebius: 0.2B Inpainting Model Challenges 10B Giants](#item-7) ⭐️ 7.0/10
-8. [sqlite-utils 4.0rc1 Adds Migrations and Nested Transactions](#item-8) ⭐️ 7.0/10
-9. [Cloudflare adds temporary accounts for 60-min deployments](#item-9) ⭐️ 7.0/10
-10. [Hugging Face Revives Papers with Code with New Features](#item-10) ⭐️ 7.0/10
-11. [Request: Syntax-Robust NLI for Diffusion LLM Text](#item-11) ⭐️ 7.0/10
-12. [Obfuscated Juliet Benchmark for LLM Vulnerability Detection](#item-12) ⭐️ 7.0/10
-13. [Matrix Recurrent Units Update: Stability and Efficiency Improvements](#item-13) ⭐️ 7.0/10
-14. [Optocam Zero: Pi Zero DIY Camera with Slow Boot](#item-14) ⭐️ 6.0/10
-15. [Japanese Wordless Symbols: A Cultural Analysis](#item-15) ⭐️ 6.0/10
-16. [Oak: Git alternative designed for AI agents](#item-16) ⭐️ 6.0/10
-17. [Canada to build up to 10 new nuclear reactors by 2040](#item-17) ⭐️ 6.0/10
-18. [1,700 Free Online Courses from Top Universities](#item-18) ⭐️ 6.0/10
-19. [Reddit User Enhances JEPA Demo with Noise and Baseline](#item-19) ⭐️ 6.0/10
-20. [Best methods for fine-tuning Whisper on domain-specific vocabulary](#item-20) ⭐️ 6.0/10
-21. [Seeking Papers on EMA Applied to LoRA Adapters](#item-21) ⭐️ 6.0/10
-22. [WeightsLab: Open-Source Tool for Data-Centric Neural Net Debugging](#item-22) ⭐️ 6.0/10
+1. [Valve Launches New Steam Machine Gaming PC](#item-1) ⭐️ 9.0/10
+2. [VibeThinker: 3B model beats Opus 4.5 on reasoning via SFT+GRPO](#item-2) ⭐️ 8.0/10
+3. [Moebius: 0.2B inpainting model claims 10B-level performance](#item-3) ⭐️ 8.0/10
+4. [Oak: A Git Alternative for AI Agents with Virtual Mounts](#item-4) ⭐️ 8.0/10
+5. [Police Misuse of Flock ALPRs Shows Need for Warrants](#item-5) ⭐️ 8.0/10
+6. [LLM Prompt Injection Root Cause: Role Confusion](#item-6) ⭐️ 8.0/10
+7. [Porting Moebius 0.2B inpainting model to browser with Claude Code](#item-7) ⭐️ 8.0/10
+8. [Hugging Face Revives Papers with Code with SOTA Badges and Trending Scores](#item-8) ⭐️ 8.0/10
+9. [MRU Update: Tackling Stability and Efficiency Issues](#item-9) ⭐️ 8.0/10
+10. [GLM-5.2 Local Inference: Hardware Requirements and Community Tips](#item-10) ⭐️ 7.0/10
+11. [Blog praises memcached over Redis and Valkey](#item-11) ⭐️ 7.0/10
+12. [Canada plans up to 10 new nuclear reactors by 2040](#item-12) ⭐️ 7.0/10
+13. [sqlite-utils 4.0rc1 adds migrations and nested transactions](#item-13) ⭐️ 7.0/10
+14. [LLM Vulnerability Detection Benchmark with Obfuscated CWEs](#item-14) ⭐️ 7.0/10
+15. [Optocam Zero: DIY Digital Camera from Raspberry Pi Zero](#item-15) ⭐️ 6.0/10
+16. [Cloudflare Launches Temporary Accounts for Zero-Setup Deployments](#item-16) ⭐️ 6.0/10
+17. [Seeking syntax-robust NLI for diffusion LLM text evaluation](#item-17) ⭐️ 6.0/10
+18. [ECCV 2026 Appeals Process Under Scrutiny](#item-18) ⭐️ 6.0/10
+19. [Improved DVD-JEPA demo with noise and fair baseline](#item-19) ⭐️ 6.0/10
+20. [Best methods for fine-tuning Whisper on domain-specific Spanish vocabulary](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Valve Launches New Steam Machine with Fair Reservation System](https://store.steampowered.com/news/group/45479024/view/685257114654870245) ⭐️ 9.0/10
+## [Valve Launches New Steam Machine Gaming PC](https://store.steampowered.com/news/group/45479024/view/685257114654870245) ⭐️ 9.0/10
 
-Valve today launched the Newell Nucleus Steam Machine, a dedicated gaming PC running SteamOS, with a reservation system to combat scalping and an open hardware philosophy allowing users to install any OS or apps. This marks Valve's return to dedicated gaming hardware with a focus on fairness and openness, potentially influencing the PC gaming industry by setting a standard for anti-scalping reservation systems and user freedom. The Steam Machine features a semi-custom Zen 4 six-core CPU with 30W TDP and a last-generation GPU, sold at a price reflecting component costs. The reservation system accepts signups over several days with random order to reduce bot advantages.
+Valve has launched the Steam Machine today with a unique reservation system that randomly selects order slots over a few days to ensure fairness. This marks Valve's return to dedicated gaming hardware with a strong emphasis on openness, allowing users to install any operating system or apps, potentially setting a new standard for console-like PC gaming. The Steam Machine uses standardized PC components, and its price reflects component costs. The randomized reservation order is designed to combat bots and reward no one for being first.
 
 hackernews · theschwa · Jun 22, 17:09 · [Discussion](https://news.ycombinator.com/item?id=48632884)
 
-**Background**: Steam Machines were originally announced in 2013 as part of Valve's push into the living room, but the initiative faded. The new model, codenamed 'Newell Nucleus,' revives the concept with current-gen AMD components and a focus on openness, allowing users to replace the OS or install third-party apps. It is essentially a console-like PC running SteamOS, similar to the Steam Deck but for home use.
+**Background**: The Steam Machine is a gaming PC from Valve that runs SteamOS and is designed to compete with consoles. This is a follow-up to earlier Steam Machine attempts from around 2015, but with a modern focus on openness and fair access.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Steam_Machine">Steam Machine - Wikipedia</a></li>
-<li><a href="https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article">The Newell Nucleus: Steam Machine LTT Companion Article | LTT Labs</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48632884">Steam Machine | Hacker News</a></li>
+<li><a href="https://store.steampowered.com/sale/steammachine">Steam Machine</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community largely praised the fair reservation system and open philosophy, with users appreciating the randomized order to prevent scalping and the emphasis on user control. Some expressed curiosity about specs and pricing, while others noted the refreshingly genuine marketing approach.
+**Discussion**: Community comments were largely positive, with users appreciating the fairness of the reservation system and the device's open nature. Some discussed pricing and specs, while others praised the authentic gameplay footage used in marketing.
 
-**Tags**: `#gaming`, `#hardware`, `#Steam`, `#Valve`, `#PC gaming`
+**Tags**: `#steam-machine`, `#valve`, `#gaming-hardware`, `#pc-gaming`
 
 ---
 
 <a id="item-2"></a>
-## [Running GLM-5.2 Locally: Hardware Requirements](https://unsloth.ai/docs/models/glm-5.2) ⭐️ 8.0/10
+## [VibeThinker: 3B model beats Opus 4.5 on reasoning via SFT+GRPO](https://arxiv.org/abs/2606.16140) ⭐️ 8.0/10
 
-A guide for running GLM-5.2 locally has been published, detailing hardware requirements (512GB RAM, dual RTX 3090 GPUs) and performance metrics (~6 tokens/sec) shared by community members. GLM-5.2 is a powerful open-weight Mixture-of-Experts model that competes with proprietary models, and this guide enables enthusiasts to run it on local hardware, democratizing access to advanced AI. The model requires 512GB RAM and dual 3090 GPUs for Q4_K_XL quantization, achieving ~6 tokens/sec with DDR4 2400MHz RAM; using faster RAM or more CPU cores can increase speed to ~9-11 tok/s.
+VibeThinker is a 3-billion-parameter language model trained with a novel combination of supervised fine-tuning (SFT) and group relative policy optimization (GRPO). It outperforms much larger models like Opus 4.5 on reasoning benchmarks, especially in Python code-related tasks. This demonstrates that small models with innovative training methods can rival or surpass large models in specific domains, potentially reducing deployment costs and enabling more efficient, specialized AI systems. The model focuses on Python code reasoning and performs poorly on structured output tasks, as noted in its model card. It can run on a single RTX 3090 (24 GB VRAM) using vLLM, making it accessible for local deployment.
 
-hackernews · TechTechTech · Jun 22, 21:21 · [Discussion](https://news.ycombinator.com/item?id=48636377)
+hackernews · timhigins · Jun 23, 02:01 · [Discussion](https://news.ycombinator.com/item?id=48639240)
 
-**Background**: GLM-5.2 is an open-weight Mixture-of-Experts (MoE) language model from Z.AI, designed for high performance across various tasks. MoE models activate only a subset of parameters per token, reducing computation but requiring significant memory. Quantization reduces model size by lowering numerical precision, enabling it to run on consumer hardware with some quality loss.
+**Background**: Large language models typically require billions or hundreds of billions of parameters to store knowledge and reasoning capabilities. GRPO is a reinforcement learning method introduced in the DeepSeekMath paper that improves reasoning by comparing groups of outputs, while SFT is a standard supervised training step. Combining both allows a small model to learn effective reasoning strategies without massive parameter counts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model">What Is GLM 5.2? The Open-Weight Model Beating GPT 5.5 on Design Benchmarks | MindStudio</a></li>
-<li><a href="https://medium.com/@apoorvajain1111/inside-the-sparse-brain-how-mixture-of-experts-moe-makes-llms-smarter-faster-and-greener-205b0fea1416">Inside the Sparse Brain: How Mixture - of - Experts ( MoE )... | Medium</a></li>
+<li><a href="https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/fine_tuning_llm_grpo_trl.ipynb">Post training an LLM for reasoning with GRPO in TRL</a></li>
+<li><a href="https://medium.com/@mandeep0405/ppo-dpo-grpo-reinforcement-learning-techniques-for-training-llms-193459ffc14e">PPO, DPO & GRPO: Reinforcement Learning Techniques for ...</a></li>
+<li><a href="https://arxiv.org/abs/2407.16216">Reinforcement Learning for LLM Post-Training: A Survey Post-Training in 2026: GRPO, DAPO, RLVR & Beyond - llm-stats.com GRPO Trainer · Hugging Face Part 34 · Post training an LLM for reasoning with GRPO in TRL</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members shared real-world benchmarks, with one user reporting ~6 tok/s on 512GB RAM + dual 3090s, and another noting that 256GB RAM is insufficient for smooth operation. There is debate about the viability of local inference given high prompt processing latency compared to API solutions.
+**Discussion**: The community response is largely positive, with users noting the model's potential for specific tasks like code security review. Some commenters point out limitations: it only performs well on Python, not other languages, and struggles with structured output. Others highlight its suitability for deployment on specialized chips (e.g., Taalas HC1) for extremely fast inference.
 
-**Tags**: `#GLM-5.2`, `#local LLM`, `#hardware requirements`, `#MoE`, `#AI deployment`
+**Tags**: `#AI`, `#LLM`, `#reasoning`, `#GRPO`, `#small-language-model`
 
 ---
 
 <a id="item-3"></a>
-## [Flock License Plate Readers Misused by Police Chiefs to Stalk Women](https://ipvm.com/reports/police-chiefs-track) ⭐️ 8.0/10
+## [Moebius: 0.2B inpainting model claims 10B-level performance](https://hustvl.github.io/Moebius/) ⭐️ 8.0/10
 
-An IPVM report reveals that police chiefs have used Flock Safety's automated license plate readers (LPRs) to stalk women, demonstrating a clear need for warrant requirements before such surveillance tools can be accessed. This abuse highlights significant privacy risks and the potential for misuse of mass surveillance systems, underlining the urgent need for stronger legal safeguards and oversight. The report characterizes the behavior as rare but identifies it as the most common form of abuse, revealing a tension in Flock's statements. The cameras capture rear images of all passing vehicles and use computer vision to read license plates.
+Researchers released Moebius, a 0.2B parameter image inpainting model that reportedly matches the performance of 10B-parameter models, using a Latent Diffusion Model with Latent Categories Guidance. Community members have already created browser-based demos using ONNX and written blog posts about porting the model. This is significant because it demonstrates that extremely lightweight models can potentially rival much larger ones, reducing computational cost and enabling inpainting on edge devices or in browsers. If validated, it could democratize advanced image editing and lower the barrier for AI-powered creative tools. The model uses a Latent Diffusion Model (LDM) backbone with Latent Categories Guidance (LCG) for efficient inpainting, and operates at 512x512 pixel resolution. Community tests show inpainted regions can be visibly smoother than surroundings and the model struggles with novel objects, raising questions about the claimed 10B-level equivalence.
 
-hackernews · jhonovich · Jun 22, 19:13 · [Discussion](https://news.ycombinator.com/item?id=48634694)
+hackernews · DSemba · Jun 22, 13:53 · [Discussion](https://news.ycombinator.com/item?id=48630171)
 
-**Background**: Flock Safety produces automated license plate reader cameras (the Falcon and Sparrow models) that are widely used by law enforcement to monitor traffic and identify vehicles. The technology alerts police when flagged vehicles are detected, but concerns have been raised about potential misuse for personal tracking without warrants.
+**Background**: Image inpainting is the task of filling in missing or removed parts of an image realistically. Large diffusion models like Stable Diffusion have achieved high quality but require billions of parameters and significant compute. Moebius aims to reduce the parameter count while maintaining quality by introducing Latent Categories Guidance, which conditions the diffusion process on categorical latent features for better efficiency.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Flock_Safety">Flock Safety - Wikipedia</a></li>
-<li><a href="https://www.flocksafety.com/products/license-plate-readers">Flock Safety LPR Cameras: Automated License Plate Reader</a></li>
+<li><a href="https://hustvl.github.io/Moebius/">Moebius: 0.2 B Lightweight Image Inpainting Framework with 10B-Level Performance</a></li>
+<li><a href="https://simonwillison.net/2026/Jun/22/porting-moebius/">Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</a></li>
+<li><a href="https://arxiv.org/abs/2606.19195">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance - arXiv</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments express strong concerns about abuse, with references to the 'Men in Black' scene and general distrust of police. One user notes that the most common abuse is officers tracking people they know, while another underscores that abuse happens when monitoring is absent.
+**Discussion**: Several community members successfully created browser demos using ONNX and reported positive experiences, but others provided critical feedback. A common sentiment is that while impressive for its size, the model does not truly match 10B models: inpainted regions appear blurry, it fails on novel objects, and the 512x512 output limit restricts practical use.
 
-**Tags**: `#privacy`, `#surveillance`, `#law enforcement`, `#ethics`, `#Flock`
+**Tags**: `#image inpainting`, `#efficient model`, `#machine learning`, `#browser demo`, `#AI art`
 
 ---
 
 <a id="item-4"></a>
-## [LLM Role Confusion Enables Effective Jailbreaks](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) ⭐️ 8.0/10
+## [Oak: A Git Alternative for AI Agents with Virtual Mounts](https://oak.space/oak/oak) ⭐️ 8.0/10
 
-Research by Charles Ye, Jasmine Cui, and Dylan Hadfield-Menell reveals that large language models cannot reliably distinguish privileged text (e.g., system instructions) from user input, and that the writing style of text influences model behavior more than its actual content, enabling effective jailbreaks. This finding challenges current defenses against prompt injection attacks, showing that style-based attacks can easily bypass safety measures, and suggests that true role perception is needed for robust security, which current models lack. The study found that 'destyling'—rewriting user input to match a neutral style—reduced attack success rates from 61% to 10%, while simple style mimicry of internal thought blocks could override safety training.
+Oak is a new version control system designed specifically for AI agents, introducing virtual mounts that allow agents to work on projects without needing a full copy of the repository, thereby reducing resource usage and enabling parallel task execution. As AI agents increasingly handle complex, multi-repository projects, traditional Git workflows become inefficient due to full clone overhead and context switching. Oak addresses this by optimizing for agent workflows, potentially reducing token usage and improving parallelism, which could become critical as agent-based development scales. Oak is still in early development, lacking Windows builds, CI, issues, and comments, but its core feature—virtual mounts—enables lazy file access similar to Google's internal system. The project is fully bootstrapped on Oak itself and has been used for several months without a Git backup.
 
-rss · Simon Willison · Jun 22, 23:59
+hackernews · zdgeier · Jun 22, 15:37 · [Discussion](https://news.ycombinator.com/item?id=48631726)
 
-**Background**: Prompt injection is a security vulnerability where an attacker inserts malicious instructions into an LLM's input, tricking the model into ignoring its original instructions. Role confusion refers to the model's inability to distinguish between different roles (e.g., system, user, assistant) defined in the prompt, allowing attackers to manipulate the model by mimicking the style of a privileged role's text.
+**Background**: Traditional version control systems like Git require a full local copy of a repository to work, which is wasteful for AI agents that often need to operate across multiple tasks or repositories. Git's worktree feature allows multiple working directories from one repository, but still requires cloning the whole repo. Virtual mounts, as used in Oak, provide on-demand file access, similar to Git's sparse checkout but more dynamic and intuitive.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://role-confusion.github.io/">Prompt Injection as Role Confusion</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/">Prompt Injection as Role Confusion | Simon Willison’s Weblog</a></li>
+<li><a href="https://git-scm.com/docs/git-worktree">Git - git-worktree Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#prompt injection`, `#AI safety`, `#LLM security`, `#role confusion`
+**Discussion**: Community reaction is mixed: some question whether a new VCS is necessary given that AI models are already trained on Git, while others appreciate the lazy mount concept, comparing it to Google's internal system. There is interest in the potential token savings and parallel workflow benefits, but skepticism remains about ecosystem compatibility and the maturity of the project.
+
+**Tags**: `#version-control`, `#ai-agents`, `#git-alternative`, `#developer-tools`
 
 ---
 
 <a id="item-5"></a>
-## [Porting Moebius 0.2B inpainting model to browser with WebGPU](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) ⭐️ 8.0/10
+## [Police Misuse of Flock ALPRs Shows Need for Warrants](https://ipvm.com/reports/police-chiefs-track) ⭐️ 8.0/10
 
-Simon Willison successfully ported the lightweight Moebius 0.2B image inpainting model to run in-browser using WebGPU, making state-of-the-art inpainting accessible without server dependencies. This demonstrates practical browser-based AI deployment, reducing reliance on expensive GPU servers and enabling real-time image editing on consumer devices. The model uses ONNX Runtime Web with WebGPU backend, ported with the help of Claude Code. It runs entirely in the browser, allowing users to mark image regions and generate fill content locally.
+A report reveals that police chiefs used Flock Safety's automated license plate readers (ALPRs) to stalk women, underscoring the urgent need for warrant requirements before accessing such surveillance data. This incident highlights the inherent privacy risks of mass surveillance technologies and the ease with which law enforcement can abuse them, eroding public trust and civil liberties. Flock Safety's ALPR network is widely used by police; the report identifies that while overall abuse may be rare, the most common form involves officers tracking individuals they personally know, often without any legal oversight.
 
-rss · Simon Willison · Jun 22, 23:43
+hackernews · jhonovich · Jun 22, 19:13 · [Discussion](https://news.ycombinator.com/item?id=48634694)
 
-**Background**: Moebius is a 0.2B parameter image inpainting model that achieves performance comparable to 10B-level models like FLUX.1-Fill-Dev while being much smaller. WebGPU is a modern web standard for accessing GPU capabilities, enabling machine learning inference in browsers. Claude Code is an AI coding assistant by Anthropic that can understand and modify code repositories.
+**Background**: Automated license plate readers (ALPRs) capture license plate data and cross-reference it against databases, enabling tracking of vehicle movements. Flock Safety is a major provider of these systems to U.S. law enforcement. The U.S. Supreme Court has addressed privacy concerns related to ALPRs under the Fourth Amendment, but warrant requirements remain inconsistent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hustvl.github.io/Moebius/">Moebius Project Page</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/22/porting-moebius/">Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Automatic_number-plate_recognition">Automatic number- plate recognition - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flock_Safety">Flock Safety - Wikipedia</a></li>
+<li><a href="https://www.eff.org/deeplinks/2025/12/effs-investigations-expose-flock-safetys-surveillance-abuses-2025-review">EFF's Investigations Expose Flock Safety's Surveillance Abuses: 2025 in Review | Electronic Frontier Foundation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine learning`, `#webgpu`, `#image inpainting`, `#browser ai`, `#open source`
+**Discussion**: Commentators expressed strong concerns about privacy and police abuse, with one noting the tension in Flock's characterization of abuse as 'rare' yet simultaneously the most common form. Another comment referenced a 'Men in Black' scene to illustrate the unsettling potential of such surveillance.
+
+**Tags**: `#surveillance`, `#privacy`, `#law enforcement`, `#warrants`, `#ethical technology`
 
 ---
 
 <a id="item-6"></a>
-## [In Praise of Memcached: Simplicity Over Redis/Valkey](https://jchri.st/blog/in-praise-of-memcached/) ⭐️ 7.0/10
+## [LLM Prompt Injection Root Cause: Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) ⭐️ 8.0/10
 
-A blog post argues that memcached's simplicity and reliability make it preferable to Redis/Valkey for many caching use cases, citing production issues with Redis/Valkey such as memory policy failures and disk-full crashes. This contrarian view challenges the widespread adoption of Redis/Valkey as a default cache, encouraging developers to reconsider simpler solutions for performance-critical infrastructure. The author notes that memcached's limited feature set (no persistence, no complex data structures) reduces attack surface and operational complexity, while Redis/Valkey's advanced features often lead to misuse as a persistent store, causing outages.
+A new research paper accepted at ICML 2026 reveals that prompt injection attacks succeed because LLMs rely on text style rather than role tags to determine the source of input. The authors show that simply restyling an attack can reduce success rates from 61% to 10%. This finding fundamentally challenges current defenses against prompt injection, suggesting that without genuine role perception, LLM security will remain a whack-a-mole game. The work has immediate implications for deploying LLMs in agent-based and tool-using systems where untrusted inputs are common. The researchers introduced role probes to measure internal role perception and found that role confusion predicts attack success even before output generation. They also demonstrated that destyling—rewriting text to avoid mimicking system or assistant style—dramatically reduces attack effectiveness.
 
-hackernews · j03b · Jun 23, 01:15 · [Discussion](https://news.ycombinator.com/item?id=48638886)
+rss · Simon Willison · Jun 22, 23:59
 
-**Background**: Memcached is a simple, distributed memory caching system that stores key-value pairs in RAM. Redis and its fork Valkey are more feature-rich in-memory data stores supporting persistence, complex data types, and additional use cases beyond caching. The article argues that for pure caching needs, memcached's simplicity avoids common pitfalls of Redis/Valkey.
+**Background**: Prompt injection occurs when an LLM treats untrusted user input as privileged instructions, such as system commands. LLMs typically use role tags like <system>, <user>, and <assistant> to separate different sources of text. This research reveals that models perceive roles based on the stylistic resemblance of text to expected role outputs, not the tags themselves.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Valkey">Valkey</a></li>
-<li><a href="https://valkey.io/">Valkey</a></li>
+<li><a href="https://role-confusion.github.io/">Prompt Injection as Role Confusion</a></li>
+<li><a href="https://arxiv.org/abs/2603.12277">[2603.12277] Prompt Injection as Role Confusion - arXiv.org Prompt Injection as Role Confusion - arXiv.org Prompt Injection as Role Confusion: Unmasking the Deeper Flaw ... Prompt Injection as Role Confusion - GitHub role-confusion/prompt-injection-as-role-confusion | DeepWiki [Paper Note] Prompt Injection as Role Confusion</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters largely agree with the author's observations, sharing their own production experiences with Redis/Valkey issues such as memory policy failures and AOF write errors. Some note that Redis/Valkey problems often stem from misconfiguration or misuse, while memcached's simplicity reduces such risks, though one commenter points out memcached also lacks persistence.
-
-**Tags**: `#memcached`, `#redis`, `#caching`, `#performance`, `#infrastructure`
+**Tags**: `#AI safety`, `#prompt injection`, `#LLM security`, `#jailbreak`, `#research`
 
 ---
 
 <a id="item-7"></a>
-## [Moebius: 0.2B Inpainting Model Challenges 10B Giants](https://hustvl.github.io/Moebius/) ⭐️ 7.0/10
+## [Porting Moebius 0.2B inpainting model to browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) ⭐️ 8.0/10
 
-Researchers released Moebius, a lightweight image inpainting model with only 0.2B parameters, claiming performance comparable to 10B-level models. Community members have already ported it to run in browsers via ONNX and Hugging Face Spaces. If the claim holds, Moebius significantly lowers the computational barrier for high-quality inpainting, enabling deployment on consumer hardware and in-browser applications. This could democratize advanced image editing and inspire more efficient model architectures. The model is limited to 512×512 output resolution, and community tests show visibly smoother inpainted regions and poor performance on novel objects. A browser demo requires downloading ~1.3GB of ONNX model files.
+Simon Willison successfully ported the Moebius 0.2B parameter image inpainting model from PyTorch/CUDA to run in a browser using WebGPU, with the assistance of Claude Code. A live demo is available at simonw.github.io/moebius-web/. This demonstrates that lightweight AI models can achieve efficient, browser-based inference without dedicated GPU hardware, reducing server costs and expanding access to advanced image editing. It also highlights the potential of AI coding agents like Claude Code to accelerate model porting projects. The port utilized ONNX Runtime Web with the WebGPU backend rather than Transformers.js, and the model weights were publicly released. The browser tool allows users to upload any image, mask regions to remove, and run inpainting with a single click.
 
-hackernews · DSemba · Jun 22, 13:53 · [Discussion](https://news.ycombinator.com/item?id=48630171)
+rss · Simon Willison · Jun 22, 23:43
 
-**Background**: Image inpainting is the task of filling missing or removed regions of an image with plausible content. It is commonly used in photo editing and restoration. Moebius aims to achieve high performance with a fraction of the parameters of large models like those with 10B parameters. ONNX (Open Neural Network Exchange) is an open format for representing machine learning models, allowing deployment across different platforms.
+**Background**: Moebius is a 0.2 billion parameter latent diffusion model designed for image inpainting, achieving performance comparable to much larger models. WebGPU is a cross-platform API that enables web applications to leverage the GPU for general-purpose computing, including machine learning inference. Claude Code is an AI-powered coding assistant from Anthropic that can autonomously work on complex software projects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2606.19195">Moebius : 0.2B Lightweight Image Inpainting Framework with...</a></li>
-<li><a href="https://www.mlhive.com/2026/06/why-moebius-0-2b-disrupts-generative-image-inpainting">Why Moebius 0.2B is Disrupting Generative Image Inpainting</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/22/porting-moebius/">Porting the Moebius 0.2B image inpainting model to run in the...</a></li>
+<li><a href="https://hustvl.github.io/Moebius/">Moebius: 0.2 B Lightweight Image Inpainting Framework with 10B-Level Performance</a></li>
+<li><a href="https://simonwillison.net/2026/Jun/22/porting-moebius/">Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebGPU">WebGPU</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is impressed by the model's efficiency but critical of its claimed equivalence to 10B models. Users report decent results on natural images but note limitations in output size, smoothness artifacts, and failure on novel objects. Several browser demos were created, though some failed on all attempted images.
-
-**Tags**: `#image inpainting`, `#efficient model`, `#machine learning`, `#browser demo`, `#ONNX`
+**Tags**: `#image inpainting`, `#WebGPU`, `#browser ML`, `#Claude Code`, `#model porting`
 
 ---
 
 <a id="item-8"></a>
-## [sqlite-utils 4.0rc1 Adds Migrations and Nested Transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) ⭐️ 7.0/10
+## [Hugging Face Revives Papers with Code with SOTA Badges and Trending Scores](https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/) ⭐️ 8.0/10
 
-sqlite-utils 4.0rc1, released on June 21, 2026, adds support for database migrations and nested transactions. This release candidate marks a major version bump with some backwards incompatible changes. This update makes sqlite-utils a more complete tool for managing SQLite databases, especially for projects that need to evolve schemas over time. The built-in migration system simplifies schema versioning for both CLI and Python library users. The migration system is a port of the sqlite-migrate package and does not support reverse migrations. Nested transactions are implemented using SQLite savepoints, allowing partial rollbacks within a transaction.
+Hugging Face has revived Papers with Code with new features including SOTA badges for top-3 benchmark performances, a trending score combining GitHub star velocity and Hugging Face artifact activity, and support for third-party evaluations. This revival re-establishes a crucial platform for researchers to discover state-of-the-art papers and track benchmarks, making it easier to build upon each other's work and accelerate progress in machine learning. The trending score now incorporates Hugging Face metrics (models, datasets, Spaces) in addition to GitHub stars. External evals allow viewing benchmark results not originally in the paper, like PostTrainBench for GLM-5.2. The site now supports more tasks like ImageNet (10% data), 3D semantic segmentation, and object counting.
 
-rss · Simon Willison · Jun 21, 23:30
+reddit · r/MachineLearning · /u/NielsRogge · Jun 22, 14:29
 
-**Background**: sqlite-utils is a Python library and command-line utility that provides higher-level operations on top of SQLite's built-in sqlite3 module. It simplifies tasks like creating tables from JSON data, transforming tables, and querying. Database migrations allow incremental, version-controlled changes to a database schema, which is a common requirement in application development. Nested transactions enable finer-grained control over transaction boundaries, useful for testing and complex operations.
+**Background**: Papers with Code (PwC) was a widely-used platform for tracking machine learning papers, benchmarks, and code repositories. It was acquired by Hugging Face in 2021 and later fell into relative inactivity. This revival aims to restore its utility as a central hub for research discovery, especially as the field enters a new 'age of research'.
+
+**Tags**: `#machine learning`, `#papers with code`, `#Hugging Face`, `#research tools`, `#open source`
+
+---
+
+<a id="item-9"></a>
+## [MRU Update: Tackling Stability and Efficiency Issues](https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/) ⭐️ 8.0/10
+
+The author reports improvements to the Matrix Recurrent Unit (MRU), a linear-time attention alternative, by experimenting with several methods to construct the input state matrix and addressing training instability. Experiments on Shakespeare-char and TinyStories datasets show that orthogonal transformations hurt performance while shearing transformations are critical. This work provides insights into designing efficient sequence models beyond attention, revealing that certain matrix constraints like orthogonality can cause failure, which informs future architecture design. The MRU's linear-time complexity offers potential for scaling to long sequences. The author tested five input state matrix construction methods (reshape+identity, skew-symmetric with matrix exponential/Cayley, LDU factors, QR, scalar factor) and found LDU factors performed best. On TinyStories, the MRU underperformed a GPT-2 baseline, suggesting current limitations for larger datasets.
+
+reddit · r/MachineLearning · /u/mikayahlevi · Jun 21, 19:39
+
+**Background**: Matrix Recurrent Units (MRUs) are a novel linear-time sequence architecture that replaces attention by cumulatively multiplying input state matrices across the sequence. They use an associative parallel scan for efficient GPU computation. This update builds on earlier work that faced stability issues on complex datasets.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://justinchiu.netlify.app/blog/pscan_diff/">Differentiating through an associative parallel scan</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Matrix Recurrent Units`, `#Attention Alternatives`, `#Sequence Models`, `#Efficient Transformers`, `#Deep Learning`
+
+---
+
+<a id="item-10"></a>
+## [GLM-5.2 Local Inference: Hardware Requirements and Community Tips](https://unsloth.ai/docs/models/glm-5.2) ⭐️ 7.0/10
+
+The article from Unsloth details the hardware requirements and performance for running the GLM-5.2 model locally, with community members sharing real-world configurations such as 512GB RAM with dual RTX 3090 GPUs achieving 6 tokens per second. As open-weight models like GLM-5.2 approach frontier performance, the ability to run them locally empowers practitioners to break free from API dependency, enabling private, cost-effective inference without recurring fees. The model requires at least 256GB of RAM for MoE offloading, though heavily quantized; a 192GB RAM system with a single RTX 3090 falls short. Users report that prompt processing is significantly slower than token generation, making pure GPU setups preferable despite high cost.
+
+hackernews · TechTechTech · Jun 22, 21:21 · [Discussion](https://news.ycombinator.com/item?id=48636377)
+
+**Background**: GLM-5.2 is an open-weight large language model developed by Z.AI, known for strong performance on design and coding benchmarks. Quantization reduces model precision (e.g., from 16-bit to 4-bit) to lower memory usage and increase speed, enabling larger models to run on consumer hardware. Local LLM inference allows users to run models on their own machines, ensuring privacy and control.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model">What Is GLM 5.2? The Open-Weight Model Beating GPT 5.5 on Design Benchmarks | MindStudio</a></li>
+<li><a href="https://medium.com/biased-algorithms/what-is-quantization-in-machine-learning-a-complete-guide-to-model-efficiency-ff69b70b149b">What is Quantization in Machine Learning ? A Complete... | Medium</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion highlights varying hardware setups: one user successfully runs GLM-5.2 with 512GB RAM and dual 3090s at 6 tk/s, while others with less memory can only achieve partial loading. A key concern is that prompt processing speeds are 20–50x slower on CPU-bound setups, making the model feel unusable without expensive GPU clusters.
+
+**Tags**: `#AI/ML`, `#LLM`, `#Local Inference`, `#Hardware`, `#Quantization`
+
+---
+
+<a id="item-11"></a>
+## [Blog praises memcached over Redis and Valkey](https://jchri.st/blog/in-praise-of-memcached/) ⭐️ 7.0/10
+
+A blog post titled 'In praise of memcached' argues for memcached's simplicity and reliability, contrasting it with Redis and Valkey, and points out production issues with the latter. This article highlights important trade-offs between caching solutions, reminding developers that simpler tools like memcached can be more reliable for caching-only use cases, especially when complexity of Redis/Valkey leads to misconfiguration and outages. The post notes that despite Redis/Valkey's advanced features like persistence and data structures, many production outages stem from misuse of these features. Memcached avoids such issues by design, being a simple volatile key-value store.
+
+hackernews · j03b · Jun 23, 01:15 · [Discussion](https://news.ycombinator.com/item?id=48638886)
+
+**Background**: Memcached and Redis are both in-memory caching systems, but Redis (and its fork Valkey) offers more data structures and optional persistence, making it a multi-purpose data store. Memcached is strictly a cache, lacking persistence and complex data types, which reduces complexity and failure modes.
+
+**Discussion**: Commenters share real-world experiences: one user confirms many Redis/Valkey issues in production, while another notes never having issues with Redis in their Flask stack. A third points out that comparing memcached and Redis is unfair if one misuses persistence, and a fourth mentions migrating from memcached to Redis a decade ago.
+
+**Tags**: `#memcached`, `#redis`, `#caching`, `#performance`, `#software engineering`
+
+---
+
+<a id="item-12"></a>
+## [Canada plans up to 10 new nuclear reactors by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) ⭐️ 7.0/10
+
+The Canadian government announced a strategy to build up to 10 new nuclear reactors by 2040, including starting construction on two large-scale reactors by 2035 and at least one reactor outside Ontario by 2035. This move leverages Canada's large uranium reserves and its proven CANDU reactor technology, positioning the country as a key player in the global nuclear energy landscape and providing reliable baseload power to complement intermittent renewable sources like solar and wind. The strategy calls for construction start on two large-scale reactors by 2035, five more planned or under development by 2040, and at least one reactor under construction outside Ontario by 2035. The Darlington New Nuclear Project is already underway with site work.
+
+hackernews · geox · Jun 22, 19:06 · [Discussion](https://news.ycombinator.com/item?id=48634585)
+
+**Background**: CANDU (Canada Deuterium Uranium) is a Canadian pressurized heavy-water reactor design that uses natural uranium fuel and heavy water as a moderator. It is known for its safety record and ability to use a variety of fuels. Canada has one of the largest uranium reserves in the world and has decades of experience with nuclear energy, including building and refurbishing reactors like those at Darlington.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CANDU_reactor">CANDU reactor - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters generally support the plan, citing Canada's uranium reserves, safe CANDU design, and need for baseload power. However, some question the timeline, noting that construction start by 2035 is too far away. Others highlight that the Darlington project shows progress, and compare with international efforts.
+
+**Tags**: `#nuclear energy`, `#Canada`, `#energy policy`, `#infrastructure`
+
+---
+
+<a id="item-13"></a>
+## [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) ⭐️ 7.0/10
+
+sqlite-utils 4.0rc1 introduces database migrations and nested transactions as new features, with minor breaking changes for a major version bump. This is significant because it simplifies database schema management and transactional workflows for Python developers using SQLite, making sqlite-utils a more comprehensive tool. The migrations feature is a port of the sqlite-migrate package, allowing users to define and apply migrations via Python or CLI. Nested transactions use SQLite savepoints for easier transaction management.
+
+rss · Simon Willison · Jun 21, 23:35
+
+**Background**: sqlite-utils is a Python library and CLI tool that provides higher-level operations on SQLite databases, built on top of Python's sqlite3 module. It supports complex table transformations, automatic table creation from JSON, and more. Version 4.0rc1 is the first release candidate for a major version, indicating stability after alpha phases.
 
 <details><summary>References</summary>
 <ul>
@@ -210,292 +301,153 @@ rss · Simon Willison · Jun 21, 23:30
 </ul>
 </details>
 
-**Tags**: `#sqlite-utils`, `#release`, `#python`, `#sqlite`
-
----
-
-<a id="item-9"></a>
-## [Cloudflare adds temporary accounts for 60-min deployments](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) ⭐️ 7.0/10
-
-Cloudflare now supports temporary accounts that allow anyone to deploy Workers projects for up to 60 minutes using `npx wrangler deploy --temporary` without creating a permanent account. This feature simplifies experimentation and quick deployment for both AI agents and human developers, lowering the barrier to trying Cloudflare Workers for ephemeral tasks like testing or short-lived services. The temporary deployment remains live for 60 minutes, after which it expires unless claimed via a provided URL. The feature is available via the Wrangler CLI and works with any Workers project.
-
-rss · Simon Willison · Jun 21, 22:01
-
-**Background**: Cloudflare Workers is a serverless computing platform that runs code on Cloudflare's global edge network. Wrangler is the official command-line tool for managing Workers projects. Ephemeral deployments are short-lived, isolated environments often used for testing or previewing changes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developers.cloudflare.com/workers/">Overview · Cloudflare Workers docs</a></li>
-<li><a href="https://developers.cloudflare.com/workers/wrangler/">Wrangler · Cloudflare Workers docs</a></li>
-<li><a href="https://ephemeralenvironments.io/">Ephemeral Environments</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Cloudflare`, `#serverless`, `#developer tools`, `#AI agents`, `#ephemeral deployments`
-
----
-
-<a id="item-10"></a>
-## [Hugging Face Revives Papers with Code with New Features](https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/) ⭐️ 7.0/10
-
-Hugging Face has added SOTA badges, a new trending score combining GitHub star velocity and Hugging Face artifact trends, support for external evaluations, and more benchmarks to Papers with Code. This revival of Papers with Code enhances research discovery by making it easier to identify state-of-the-art papers and trending work, fostering collaboration in the ML community. SOTA badges are displayed when a paper ranks in the top 3 of a benchmark; the trending score now also incorporates Hugging Face model, dataset, and Space activity; external evals allow viewing third-party benchmark results not introduced in the paper itself.
-
-reddit · r/MachineLearning · /u/NielsRogge · Jun 22, 14:29
-
-**Background**: Papers with Code was a platform that aggregated machine learning papers with their code implementations, benchmarks, and datasets. After being acquired by Meta and subsequently shut down, Hugging Face revived it as an open-source alternative. The new updates aim to restore and improve upon the original experience.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://grokipedia.com/page/Papers_with_Code">Papers with Code</a></li>
-<li><a href="https://www.reddit.com/r/computervision/comments/1mivah8/what_happened_to_paperswithcode_redirects_to/">What happened to paperswithcode? Redirects to github : r/computervision</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#papers-with-code`, `#huggingface`, `#machine-learning`, `#research-discovery`, `#open-source`
-
----
-
-<a id="item-11"></a>
-## [Request: Syntax-Robust NLI for Diffusion LLM Text](https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/) ⭐️ 7.0/10
-
-A Reddit user is requesting literature on Natural Language Inference (NLI) methods that are robust to syntactic imperfections in text generated by diffusion large language models (LLMs). This is significant because diffusion LLMs are an emerging alternative to autoregressive models but produce syntactically noisy outputs, complicating the use of standard NLI for evaluating correctness. Addressing this gap could improve evaluation of LLM-generated content. The user notes that, aside from LLaDA, state-of-the-art diffusion LLMs struggle with syntactic correctness, and they seek NLI techniques that can handle such syntactic noise.
-
-reddit · r/MachineLearning · /u/RepresentativeBee600 · Jun 22, 21:51
-
-**Background**: Diffusion LLMs generate text by iteratively denoising random tokens, unlike autoregressive LLMs that predict one token at a time. This parallel refinement can lead to syntactic imperfections. Natural Language Inference (NLI) determines if a hypothesis is entailed, contradicted, or neutral given a premise, often used to verify claims generated by LLMs. Research on syntax-robust NLI aims to make these models less sensitive to grammatical errors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medium.com/the-low-end-disruptor/what-is-diffusion-llm-and-why-it-matters-749033d1efb1">What is Diffusion LLM and why it matters | by Zheng... | Medium</a></li>
-<li><a href="https://www.neilsahota.com/diffusion-llms-text-generation/">Diffusion LLMs : Rewriting the Rules of Language Generation · Neil...</a></li>
-<li><a href="https://ml-gsai.github.io/LLaDA-demo/">LLaDA - Large Language Diffusion Models</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#natural language inference`, `#diffusion LLMs`, `#syntax robustness`, `#autoregressive LLMs`
-
----
-
-<a id="item-12"></a>
-## [Obfuscated Juliet Benchmark for LLM Vulnerability Detection](https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/) ⭐️ 7.0/10
-
-A researcher has developed a benchmark system that hides standard Juliet test cases and injects misleading comments to evaluate how LLMs detect vulnerabilities, seeking community feedback on its novelty and utility. This benchmark aims to improve the robustness of LLM evaluation in security by removing the advantage LLMs have when recognizing known CWE patterns, potentially leading to more realistic and reliable vulnerability detection assessments. The benchmark uses Juliet test cases covering hundreds of CWEs (Common Weakness Enumeration), with comments generated by an LLM in accurate, misleading, or neutral sentiments to test their influence on detection. The author notes that some CWEs might still be recognizable as Juliet code by certain LLMs.
-
-reddit · r/MachineLearning · /u/Psychological_Meat_6 · Jun 22, 23:34
-
-**Background**: The Juliet test suite, developed by NIST, is a standard set of code samples with known vulnerabilities used to evaluate static analysis tools. LLMs have been increasingly applied to vulnerability detection but may rely on superficial patterns from training data. This benchmark addresses that by obfuscating known cases and manipulating natural language comments, making the evaluation more challenging and realistic.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nist.gov/publications/juliet-11-cc-and-java-test-suite">The Juliet 1.1 C/C++ and Java Test Suite | NIST</a></li>
-<li><a href="https://github.com/arichardson/juliet-test-suite-c">GitHub - arichardson/juliet-test-suite-c · GitHub</a></li>
-<li><a href="https://aclanthology.org/2025.acl-long.1490.pdf">[PDF] Benchmarking LLMs and LLM-based Agents in Practical Vulnerability ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#vulnerability detection`, `#benchmarking`, `#security`, `#AI evaluation`
-
----
-
-<a id="item-13"></a>
-## [Matrix Recurrent Units Update: Stability and Efficiency Improvements](https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/) ⭐️ 7.0/10
-
-The author revisited the Matrix Recurrent Units (MRU) algorithm, a linear-time alternative to attention, and introduced several methods to create input state matrices (skew-symmetric, LDU, QR) to improve training stability, along with a parallel scan for efficiency. This work addresses a key limitation of recurrent models—training instability—potentially making linear-time sequence modeling more practical for large-scale tasks. It contributes to the ongoing search for efficient alternatives to attention in transformer architectures. The author found that forcing input states to be orthogonal (via Cayley map or matrix exponential) hurt performance, indicating that shear transformations are important. On the TinyStories dataset, MRU underperformed GPT-2, suggesting further work is needed.
-
-reddit · r/MachineLearning · /u/mikayahlevi · Jun 21, 19:39
-
-**Background**: Recurrent neural networks (RNNs) process sequences by updating a hidden state, but sequential computation limits parallelism. Attention mechanisms in transformers allow parallel processing but scale quadratically with sequence length. Matrix Recurrent Units (MRUs) aim to combine the benefits: linear-time recurrence via cumulative matrix multiplication, computed in parallel using an associative scan.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Recurrent_neural_network">Recurrent neural network - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Prefix_sum">Prefix sum - Wikipedia</a></li>
-<li><a href="https://medium.com/data-science-collective/mambas-secret-weapon-the-mathematical-elegance-of-the-parallel-associative-scan-e9617f2644fa">Mamba’s Secret Weapon: The Mathematical Elegance of the Parallel ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#sequence modeling`, `#recurrent neural networks`, `#attention alternative`, `#matrix recurrence`
+**Tags**: `#sqlite`, `#python`, `#library`, `#migrations`, `#transactions`
 
 ---
 
 <a id="item-14"></a>
-## [Optocam Zero: Pi Zero DIY Camera with Slow Boot](https://github.com/dorukkumkumoglu/optocamzero) ⭐️ 6.0/10
+## [LLM Vulnerability Detection Benchmark with Obfuscated CWEs](https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/) ⭐️ 7.0/10
 
-A developer built a digital camera called Optocam Zero using a Raspberry Pi Zero and off-the-shelf components, achieving a functional but slow device with a 22-second boot time. This project highlights the creativity and flexibility of the Raspberry Pi ecosystem for DIY hardware, but its practical limitations underscore why such designs struggle to compete with smartphones and dedicated cameras. The camera is based on the Raspberry Pi Zero W, uses the official Pi camera module, and requires 22 seconds to boot and capture a photo, which is deemed unacceptable for typical photography use cases.
+A researcher shared a near-complete benchmark system that evaluates LLMs' ability to detect non-deterministic vulnerabilities by obfuscating known Common Weakness Enumeration (CWE) test cases from the Juliet suite and injecting LLM-generated comments with varying accuracy. The system aims to remove LLMs' advantage of recognizing familiar test code patterns. This benchmark addresses a critical gap in AI safety evaluation by testing how well LLMs can detect vulnerabilities in realistic, non-standard code, especially in light of advanced AI-driven vulnerability discovery tools like Claude Mythos. It could help improve the robustness of LLM-based security analysis systems. The benchmark is approximately 80% complete, covering a few hundred CWEs with code that fills typical input context windows. Remaining work includes improving presentation, benchmarking published LLMs, and pruning CWEs that might be recognized despite obfuscation.
 
-hackernews · iamnothere · Jun 22, 19:19 · [Discussion](https://news.ycombinator.com/item?id=48634778)
+reddit · r/MachineLearning · /u/Psychological_Meat_6 · Jun 22, 23:34
 
-**Background**: The Raspberry Pi Zero is a low-cost, single-board computer popular for DIY projects. Building a camera around it involves running a full Linux operating system, which incurs significant boot delays compared to dedicated camera firmware or smartphone instant-on capabilities.
+**Background**: The Juliet Test Suite, developed by NIST, provides a collection of known C/C++ (and Java) test cases with embedded software flaws corresponding to specific CWEs. It is widely used for evaluating static analysis tools but is often easily recognized by LLMs. Non-deterministic vulnerability detection refers to detecting flaws that are context-dependent and not solely determined by syntactic patterns, making them harder for LLMs to identify.
 
-**Discussion**: Community comments express interest in the project but point out major drawbacks: the 22-second boot time is an eternity for photography, and the cost of components may be surprisingly high. Some question why one would choose this over a smartphone, while others lament the lack of a truly high-quality Pi camera.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://samate.nist.gov/SARD/test-suites/112">Juliet C/C++ 1.3 - NIST Software Assurance Reference Dataset</a></li>
+<li><a href="https://www.nist.gov/publications/juliet-11-cc-and-java-test-suite">The Juliet 1.1 C/C++ and Java Test Suite | NIST</a></li>
+<li><a href="https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook">Mythos autonomously exploited vulnerabilities that survived ...</a></li>
 
-**Tags**: `#Raspberry Pi`, `#camera`, `#DIY`, `#hardware`, `#photography`
+</ul>
+</details>
+
+**Tags**: `#vulnerability detection`, `#LLM security`, `#benchmark`, `#AI safety`, `#code analysis`
 
 ---
 
 <a id="item-15"></a>
-## [Japanese Wordless Symbols: A Cultural Analysis](https://arun.is/blog/japan-symbols/) ⭐️ 6.0/10
+## [Optocam Zero: DIY Digital Camera from Raspberry Pi Zero](https://github.com/dorukkumkumoglu/optocamzero) ⭐️ 6.0/10
 
-An article explores Japanese wordless symbols like the 'wakaba' mark, highlighting their role in non-verbal communication and cultural politeness, sparking debate about universal design. This analysis matters because it reveals how cultural norms shape symbolic communication, offering insights for designers and policymakers interested in cross-cultural understanding and inclusive design. The article focuses on symbols like the 'wakaba' mark for beginner drivers, and contrasts them with similar symbols in other cultures (e.g., the L sign in New Zealand, road signs in Europe).
+The Optocam Zero project presents a fully DIY digital camera built from a Raspberry Pi Zero and off-the-shelf components, released as open-source hardware on GitHub. This project demonstrates the accessibility of custom camera design, enabling hobbyists and makers to build their own digital cameras for learning and experimentation, though it faces practical limitations compared to commercial devices. The camera uses a Raspberry Pi Zero. Community comments mention a 22-second boot time, which is significantly slower than typical smartphones or dedicated cameras.
 
-hackernews · msephton · Jun 22, 19:22 · [Discussion](https://news.ycombinator.com/item?id=48634803)
+hackernews · iamnothere · Jun 22, 19:19 · [Discussion](https://news.ycombinator.com/item?id=48634778)
 
-**Background**: Japanese society places high value on politeness and indirect communication, which extends to public signage. Wordless symbols are designed to convey information without confrontation or noise, reflecting cultural emphasis on harmony. This contrasts with more word-based systems in the US or other regions.
+**Background**: The Raspberry Pi Zero is a low-cost, small single-board computer popular for DIY projects. This project leverages its GPIO pins and camera interface to create a standalone camera, similar to other projects like the Charmera.
 
-**Discussion**: Commenters debated whether Japanese symbols are truly unique, with some noting equivalent symbols elsewhere (e.g., the yellow L sign in New Zealand). Others emphasized the cultural context of politeness as a key differentiator. Some found the article US-centric.
+**Discussion**: Commenters appreciate the project as a fun hobby but highlight practical drawbacks: slow boot time (22 seconds) and image quality inferior to smartphones. Some question the value over a phone camera, while others suggest using an ESP32 alternative.
 
-**Tags**: `#symbols`, `#japan`, `#culture`, `#design`, `#communication`
+**Tags**: `#raspberry-pi`, `#camera`, `#diy`, `#open-source-hardware`, `#photography`
 
 ---
 
 <a id="item-16"></a>
-## [Oak: Git alternative designed for AI agents](https://oak.space/oak/oak) ⭐️ 6.0/10
+## [Cloudflare Launches Temporary Accounts for Zero-Setup Deployments](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) ⭐️ 6.0/10
 
-Oak is a new version control system designed for AI agents, featuring virtual mounts for efficient repository access and parallel task execution without full local copies. It is currently in early development, bootstrapped on itself without Git backup for several months. By reducing token consumption and enabling parallel workflows, Oak could lower costs and improve productivity for AI agents working on software projects. However, its benefits over Git remain unproven, and the existing Git ecosystem may resist adoption. Virtual mounts allow agents to lazily fetch files only when needed, similar to Google's google3 but implemented as an open-source VCS. Oak currently lacks Windows support, CI, issues, and comments, and the development team continues to use GitHub Actions for building itself.
+Cloudflare now allows users to deploy Workers without an account using `npx wrangler deploy --temporary`, creating an ephemeral project that stays live for 60 minutes. This feature streamlines prototyping and experimentation, especially for AI agents or developers who want to quickly test code without account setup. It lowers the barrier to trying Cloudflare Workers. The temporary deployment remains live for exactly 60 minutes. After deployment, a claim link is provided to permanently take ownership of the project if desired.
 
-hackernews · zdgeier · Jun 22, 15:37 · [Discussion](https://news.ycombinator.com/item?id=48631726)
+rss · Simon Willison · Jun 21, 22:01
 
-**Background**: Traditional version control systems like Git require a full local copy of the repository, which can be slow and wasteful for AI agents that need to handle many parallel tasks. Git worktrees offer multiple working directories for the same repo, but they are not designed for the context-switching and token-efficiency needs of agents. Oak introduces virtual mounts to avoid cloning entire repositories, fetching files on demand from a remote storage.
+**Background**: Cloudflare Workers is a serverless platform that runs JavaScript at the edge. Previously, deploying a Worker required creating a Cloudflare account and setting up a project. This new `--temporary` flag eliminates that initial friction.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://git-scm.com/docs/git-worktree">Git - git-worktree Documentation</a></li>
-<li><a href="https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/">What are git worktrees, and why should I use them? - The GitHub Blog</a></li>
+<li><a href="https://blog.cloudflare.com/temporary-accounts/">Temporary Cloudflare Accounts for AI agents</a></li>
+<li><a href="https://developers.cloudflare.com/workers/platform/claim-deployments/">Claim deployments (temporary accounts) · Cloudflare Workers docs</a></li>
+<li><a href="https://getaibook.com/blog/how-to-deploy-cloudflare-workers-via-temporary-accounts/">How to Deploy Cloudflare Workers via Temporary Accounts | Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is divided: some praise the virtual mount concept as innovative (mohsen1), while others question whether a new VCS is necessary since agents already know Git from training data (SwellJoe). HN user hnlmorg expressed confusion about Oak's advantages, and kjuulh shared a custom workflow using Git worktrees that achieves similar parallelism.
+**Discussion**: Hacker News commenters generally found the feature interesting but noted that the 'AI agent' framing is mostly marketing. Some expressed concerns about abuse potential with temporary accounts.
 
-**Tags**: `#version control`, `#AI agents`, `#git alternative`, `#open source`
+**Tags**: `#cloudflare`, `#deployment`, `#serverless`, `#ai-agents`, `#developer-tools`
 
 ---
 
 <a id="item-17"></a>
-## [Canada to build up to 10 new nuclear reactors by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) ⭐️ 6.0/10
+## [Seeking syntax-robust NLI for diffusion LLM text evaluation](https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/) ⭐️ 6.0/10
 
-The Canadian government announced a federal nuclear strategy aiming to construct up to 10 new reactors by 2040, leveraging its large uranium reserves and the domestic CANDU reactor design. This marks a significant shift in Canadian energy policy, potentially providing reliable baseload power to complement intermittent renewables and reducing reliance on foreign uranium enrichment, especially Russian supply. The strategy calls for construction to start on two large-scale reactors by 2035, five more planned or under development by 2040, and at least one reactor under construction outside Ontario by 2035. CANDU reactors use natural uranium fuel, avoiding enrichment.
+A Reddit user is asking for existing literature on natural language inference (NLI) methods that are robust to syntactic noise, specifically for evaluating the semantic correctness of text generated by diffusion language models (DLMs), which often suffer from syntactic errors compared to autoregressive LLMs. This highlights a gap in evaluation frameworks for emerging diffusion LLMs, which are gaining traction for their parallel generation speed. Addressing syntactic robustness in NLI could enable more reliable semantic evaluation of imperfectly generated text. Diffusion LLMs generate text via iterative denoising rather than next-token prediction, leading to potential syntactic errors that complicate standard NLI usage. The user specifically mentions diffusion models outside of LLaDA, which may have varying syntactic quality.
 
-hackernews · geox · Jun 22, 19:06 · [Discussion](https://news.ycombinator.com/item?id=48634585)
+reddit · r/MachineLearning · /u/RepresentativeBee600 · Jun 22, 21:51
 
-**Background**: CANDU (Canada Deuterium Uranium) is a pressurized heavy-water reactor design that uses natural uranium as fuel, eliminating the need for enrichment. Canada has one of the largest uranium reserves in the world. The strategy supports Canada's goal of decarbonizing electricity by 2050 and positions the country as a supplier of clean energy technology.
+**Background**: Natural Language Inference (NLI) is a task that determines whether a hypothesis is entailed, contradicted, or neutral given a premise, commonly used to evaluate LLM answer correctness via sub-claim decomposition. Autoregressive LLMs (e.g., GPT, LLaMA) generate text token-by-token, while diffusion LLMs generate in parallel, trading syntactic precision for faster inference. Standard NLI models are sensitive to syntactic artifacts, making them less reliable on syntactically noisy DLM outputs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/CANDU_reactor">CANDU reactor - Wikipedia</a></li>
-<li><a href="https://energyeducation.ca/encyclopedia/CANDU_reactor">CANDU reactor - Energy Education</a></li>
+<li><a href="https://arxiv.org/abs/2508.10875">[2508.10875] A Survey on Diffusion Language Models - arXiv.org Diffusion Language Models: The New Paradigm - Hugging Face Diffusion Language Models: An Experimental Analysis DiffusionGemma — Google DeepMind Awesome Diffusion Language Models - GitHub Gemini Diffusion — Google DeepMind What are Diffusion Language Models? | Xiaochen Zhu</a></li>
+<li><a href="https://deepmind.google/models/gemma/diffusiongemma/">DiffusionGemma — Google DeepMind</a></li>
+<li><a href="https://www.emergentmind.com/topics/natural-language-inference-nli">Natural Language Inference (NLI)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally support the plan, citing Canada's uranium reserves, safe CANDU design, and need for baseload power. However, some criticize the timeline as too distant, with construction start not for another decade, questioning the seriousness of the commitment.
-
-**Tags**: `#nuclear energy`, `#Canada`, `#energy policy`, `#infrastructure`
+**Tags**: `#NLI`, `#LLMs`, `#semantic evaluation`, `#diffusion models`, `#syntactic robustness`
 
 ---
 
 <a id="item-18"></a>
-## [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses) ⭐️ 6.0/10
+## [ECCV 2026 Appeals Process Under Scrutiny](https://www.reddit.com/r/MachineLearning/comments/1uc0m1e/eccv_2026_paper_decision_appeals_discussion_d/) ⭐️ 6.0/10
 
-Open Culture has compiled a list of 1,700 free online courses from top universities such as Yale, MIT, Harvard, and Oxford. However, community feedback indicates that some links are broken or lead to non-university sources like PwC. This compilation offers a valuable gateway to free higher education, but its reliability is undermined by outdated links and mixed quality. Users may need to verify courses individually, reducing the convenience of a single curated list. The list includes many Massive Open Online Courses (MOOCs) from platforms like Coursera, but some entries are merely redirects to course pages that no longer exist. Additionally, a few courses are offered by corporations rather than academic institutions.
+ECCV 2026 has sent out a Google Form for dissatisfied authors to submit appeals for specific policy, clerical, or major misunderstanding errors, and a rejected author has shared their case where they believe the guidelines were violated. This discussion highlights potential inconsistencies in conference review processes, which could affect author trust and the perceived fairness of top ML conferences like ECCV. Appeals are only allowed for policy errors, clerical errors, or obvious major misunderstandings; the author received scores 6/4/3 but was rejected, and all three reviewers agreed with the declared contribution type without the AC changing it.
 
-hackernews · momentmaker · Jun 23, 01:54 · [Discussion](https://news.ycombinator.com/item?id=48639184)
+reddit · r/MachineLearning · /u/Muted-Ad4511 · Jun 21, 20:39
 
-**Background**: Massive Open Online Courses (MOOCs) are web-based courses designed for unlimited participation and open access, often featuring video lectures, quizzes, and forums. Open Culture is a website that curates free educational media, including courses, textbooks, and audio books. Since Apple discontinued iTunes U in 2021, many university-hosted courses have become inaccessible without a backup.
+**Background**: In top ML conferences like ECCV, each paper is assigned an Area Chair (AC) who oversees reviewers and writes a meta-review summarizing the discussion and decision. The meta-review helps ensure consistency and transparency in the decision-making process, and authors can appeal only if they identify specific errors outlined in the conference policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.openculture.com/freeonlinecourses">1,700 Free Online Courses from Top Universities | Open Culture</a></li>
-<li><a href="https://en.wikipedia.org/wiki/MOOC">MOOC</a></li>
+<li><a href="https://iclr.cc/Conferences/2020/MetareviewGuide">ICLR 2020 Meta-reviewer Guide</a></li>
+<li><a href="https://www.nldl.org/submission/instructions/area-chairs">Area Chairs - nldl.org</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters reported that Stanford's iTunes U courses, such as Susanna Braund's Aeneid course, have been truncated to a few seconds or are completely gone. Others noted that many links point to Coursera or non-university providers like PwC, and that the separate free textbooks list also has broken links.
-
-**Tags**: `#online courses`, `#free education`, `#open culture`, `#MOOC`, `#higher education`
+**Tags**: `#ECCV`, `#conference reviewing`, `#paper decisions`, `#appeals`, `#machine learning`
 
 ---
 
 <a id="item-19"></a>
-## [Reddit User Enhances JEPA Demo with Noise and Baseline](https://www.reddit.com/r/MachineLearning/comments/1ubtf09/a_slightly_improved_dvdjepa_demo_p/) ⭐️ 6.0/10
+## [Improved DVD-JEPA demo with noise and fair baseline](https://www.reddit.com/r/MachineLearning/comments/1ubtf09/a_slightly_improved_dvdjepa_demo_p/) ⭐️ 6.0/10
 
-A Reddit user improved a minimal JEPA demonstration by adding environment noise and a fair pixel-space baseline comparison, showing clearer benefits of JEPA's ability to ignore irrelevant details. This incremental improvement clarifies the practical advantage of JEPA over pixel-based models, which is a core motivation for self-supervised representation learning. It could help researchers better understand when to use JEPA. The author used AI assistance for most changes, removed an anomaly detection feature, and ensured the pixel-space baseline had roughly the same parameter count and compute budget. The fork is linked for further exploration.
+A Reddit user enhanced the DVD-JEPA demo by adding environment noise and a fair comparison to a pixel-space baseline, highlighting JEPA's ability to ignore irrelevant details. This improvement provides a clearer demonstration of JEPA's key property—robustness to irrelevant details—which is central to its promise for self-supervised learning and world modeling. The user used AI to implement changes, kept parameter count and compute budget roughly equal between models, and removed web-demo and anomaly detection parts.
 
 reddit · r/MachineLearning · /u/Kirne · Jun 21, 15:49
 
-**Background**: Joint-Embedding Predictive Architecture (JEPA) is a self-supervised learning method that predicts representations of parts of an image from other parts, ignoring unpredictable details. In contrast, pixel-space generative models try to generate every pixel, which can be harder and less efficient. JEPA's ability to discard environment noise is a key advantage. The original I-JEPA paper by Meta introduced this approach.
+**Background**: Joint-Embedding Predictive Architecture (JEPA) is a self-supervised learning method introduced by Meta. Unlike generative approaches, JEPA learns representations by predicting the embedding of a target region from a context region in latent space, making it robust to irrelevant input details. The original demo was posted earlier on Reddit.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2301.08243">[2301.08243] Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture</a></li>
-<li><a href="https://github.com/facebookresearch/ijepa">GitHub - facebookresearch/ijepa: Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive architecture." · GitHub</a></li>
-<li><a href="https://arxiv.org/abs/2506.09985">[2506.09985] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning</a></li>
+<li><a href="https://arxiv.org/abs/2301.08243">[2301.08243] Self-Supervised Learning from Images with a ...</a></li>
+<li><a href="https://arxiv.org/abs/2511.08544">LeJEPA: Provable and Scalable Self-Supervised Learning ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#JEPA`, `#self-supervised learning`, `#demo`, `#representation learning`
+**Tags**: `#JEPA`, `#self-supervised learning`, `#demo`, `#environment noise`
 
 ---
 
 <a id="item-20"></a>
-## [Best methods for fine-tuning Whisper on domain-specific vocabulary](https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/) ⭐️ 6.0/10
+## [Best methods for fine-tuning Whisper on domain-specific Spanish vocabulary](https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/) ⭐️ 6.0/10
 
-A Reddit user asks for the best current techniques to fine-tune OpenAI's Whisper model on domain-specific Spanish vocabulary, mentioning LoRA, QLoRA, and Spectrum but seeking newer or more effective approaches. Fine-tuning speech recognition models like Whisper for specialized vocabulary is crucial for applications in healthcare, legal, or technical fields where accuracy on domain terms is essential. The discussion can guide practitioners on resource-efficient adaptation methods. LoRA, QLoRA, and Spectrum are parameter-efficient fine-tuning methods that reduce memory and compute requirements; however, their effectiveness on Whisper for Spanish domain-specific speech remains uncertain. The user also wonders about the amount of labeled audio (hours) needed for convergence.
+A Reddit user asked for the best current methods to fine-tune OpenAI's Whisper speech recognition model on domain-specific Spanish vocabulary, seeking advice on efficient fine-tuning techniques and required data volume. This question highlights a common need for domain adaptation in speech recognition, particularly for technical terms in non-English languages. Answers could guide practitioners in deploying Whisper for specialized applications like medical or legal transcription. The user is considering LoRA, QLoRA, and Spectrum fine-tuning methods, and estimates they need 5–20 hours of labeled audio based on community guides. No best practice is established; results depend on vocabulary complexity and model size.
 
 reddit · r/MachineLearning · /u/gothenjoyer_ · Jun 21, 17:18
 
-**Background**: Whisper is a general-purpose speech recognition model by OpenAI. Fine-tuning adapts it to specific domains, but full fine-tuning is expensive. Parameter-efficient methods like LoRA (Low-Rank Adaptation) train only small additive matrices, while QLoRA adds quantization to reduce memory further. Spectrum selectively fine-tunes the most informative layers to improve efficiency.
+**Background**: Whisper is a general-purpose speech recognition model by OpenAI, trained on 680,000 hours of multilingual data. Fine-tuning adapts it to specific domains or languages. LoRA (Low-Rank Adaptation) and Spectrum are efficient fine-tuning techniques that update only a small fraction of model parameters, reducing computational cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms">Efficient Fine-Tuning with LoRA: A Guide to Optimal Parameter Selection for Large Language Models</a></li>
-<li><a href="https://www.ibm.com/docs/en/watsonx/w-and-w/2.1.0?topic=tuning-qlora-fine">Quantized low-rank adaptation (QLoRA) fine tuning</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system)">Whisper (speech recognition system) - Wikipedia</a></li>
+<li><a href="https://github.com/openai/whisper">GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision · GitHub</a></li>
 <li><a href="https://huggingface.co/blog/anakin87/spectrum">Selective fine-tuning of Language Models with Spectrum</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Whisper`, `#Fine-tuning`, `#Speech Recognition`, `#NLP`, `#Spanish`
-
----
-
-<a id="item-21"></a>
-## [Seeking Papers on EMA Applied to LoRA Adapters](https://www.reddit.com/r/MachineLearning/comments/1ubv0f5/ema_on_lora_r/) ⭐️ 6.0/10
-
-A Reddit user asks for research papers that successfully combine Exponential Moving Average (EMA) with LoRA adapters, where the EMA adapter serves as a self-teacher to generate soft labels for the trainable adapter via on-policy self-distillation. If successful, using EMA on LoRA could enable efficient on-policy self-distillation with minimal extra parameters, improving fine-tuning of large models without full fine-tuning costs. The user specifically references the On-Policy Self-Distillation (OPSD) paper (arxiv 2601.19897) which uses EMA for the teacher model but fully fine-tunes, and inquires whether similar results are achievable with LoRA or left models.
-
-reddit · r/MachineLearning · /u/South-Conference-395 · Jun 21, 16:54
-
-**Background**: LoRA (Low-Rank Adaptation) is a parameter-efficient fine-tuning method that injects trainable low-rank matrices into pre-trained model layers, reducing memory and compute. On-policy self-distillation leverages an exponential moving average of the model parameters as a teacher to provide on-policy soft targets, stabilising training.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/LoRA_(machine_learning)">LoRA (machine learning) - Wikipedia</a></li>
-<li><a href="https://thinkingmachines.ai/blog/on-policy-distillation/">On-Policy Distillation - Thinking Machines Lab</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LoRA`, `#EMA`, `#self-distillation`, `#fine-tuning`, `#efficient adaptation`
-
----
-
-<a id="item-22"></a>
-## [WeightsLab: Open-Source Tool for Data-Centric Neural Net Debugging](https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/) ⭐️ 6.0/10
-
-WeightsLab, an open-source PyTorch-native tool, has been revamped to help teams debug neural network training by inspecting live loss signals, catching mislabels, class imbalance, and outliers. This tool addresses a common pain point where data issues—not model architecture—are the root cause of poor training, saving engineers hours of debugging time and improving model reliability. WeightsLab is built specifically for computer vision engineers working with images, videos, and LiDAR point cloud data, and it allows pausing training mid-run to inspect loss signals.
-
-reddit · r/MachineLearning · /u/taranpula39 · Jun 21, 17:47
-
-**Background**: Data-centric debugging focuses on improving dataset quality rather than model architecture. Common issues like mislabeled samples, class imbalance, or outliers can silently degrade model performance. Tools like WeightsLab help identify these problems during training by surfacing loss outliers and other signals.
-
-**Tags**: `#machine learning`, `#debugging`, `#data-centric`, `#PyTorch`, `#computer vision`
+**Tags**: `#Whisper`, `#fine-tuning`, `#speech recognition`, `#domain adaptation`, `#Spanish`
 
 ---
